@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "98d4",
+      "image": "assets/mouse.jpg",
+      "productName": "Mouse Gamer",
+      "price": "$20.00"
+    },
+    {
+      "id": "1e7c",
+      "image": "assets/monitor.jpg",
+      "productName": "Monitor Gamer",
+      "price": "$120.00"
+    },
+    {
+      "id": "48de",
+      "image": "assets/kitfan.jpg",
+      "productName": "Kit Fan RGB",
+      "price": "$19.99"
+    }
+  ]
+}
