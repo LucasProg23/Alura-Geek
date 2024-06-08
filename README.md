@@ -6,7 +6,8 @@ Desafio do Oracle Next Education + Alura: lojinha geek, do lado esquerdo estão 
 ## Dependências 
 `json-server`
 ## Imagem
-![Captura de tela 2024-05-08 162558](https://github.com/jefersonssant/challenge-one-alurageek/assets/133176621/20de9e36-605c-4552-8fc1-3d1d7712d645)
+![Captura de tela 2024-06-07 210618](https://github.com/LucasProg23/Alura-Geek/assets/133707929/4f7e5a05-c758-4997-94af-4a9ced8f15a6)
+
 ## Funcionalidades
 * Inserir novos produtos, onde em cada campo você vai adicionar nome do produto, preço e URL da imgem, o preço será convertido para dólar;
 * Botão de enviar para adcionar o novo produto e botão de limpar para limpar os dados do formulário de inserção de produtos;
@@ -23,7 +24,5 @@ Desafio do Oracle Next Education + Alura: lojinha geek, do lado esquerdo estão 
 * <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo JavaScript">
 * <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo Node.js">
 ## Autor
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/133176621?v=4" width=115><br><sub text-decoration="none">Jeferson Santos</sub>](https://github.com/jefersonssant) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/133707929?v=4" width=115><br><sub text-decoration="none">Lucas Gabriel</sub>](https://github.com/LucasProg23) |
 | :---: |
-
-Qualquer contribuição é bem-vinda!😄
